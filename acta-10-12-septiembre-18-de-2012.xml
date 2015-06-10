@@ -1,0 +1,183 @@
+<?xml version="1.0" ?>
+<akomaNtoso>
+	<debate>
+		<meta>
+			<references>
+				<TLCPerson href="/ontology/person/camara.felipeurrego.com/dr-diego-molano-vega" id="dr-diego-molano-vega" showAs="Dr. Diego Molano Vega"/>
+				<TLCPerson href="/ontology/person/camara.felipeurrego.com/h-s-parmenio-cuellar-bastidas" id="h-s-parmenio-cuellar-bastidas" showAs="H. S. Parmenio Cuellar Bastidas"/>
+				<TLCPerson href="/ontology/person/camara.felipeurrego.com/h-s-olga-suarez-mira" id="h-s-olga-suarez-mira" showAs="H. S. Olga Suárez Mira"/>
+				<TLCPerson href="/ontology/person/camara.felipeurrego.com/h-s-luis-fernando-duque" id="h-s-luis-fernando-duque" showAs="H. S. Luis Fernando Duque"/>
+				<TLCPerson href="/ontology/person/camara.felipeurrego.com/h-s-edgar-espindola-nino" id="h-s-edgar-espindola-nino" showAs="H. S. Édgar Espíndola Niño"/>
+				<TLCPerson href="/ontology/person/camara.felipeurrego.com/h-s-carlos-ferro-solanilla" id="h-s-carlos-ferro-solanilla" showAs="H. S. Carlos Ferro Solanilla"/>
+				<TLCPerson href="/ontology/person/camara.felipeurrego.com/h-s-john-sudarsky-rosembaum" id="h-s-john-sudarsky-rosembaum" showAs="H. S. John Sudarsky Rosembaum"/>
+				<TLCPerson href="/ontology/person/camara.felipeurrego.com/h-s-jhon-sudarsky-rosenbaum" id="h-s-jhon-sudarsky-rosenbaum" showAs="H. S. Jhon Sudarsky Rosenbaum"/>
+				<TLCPerson href="/ontology/person/camara.felipeurrego.com/h-s-luis-fernando-duque-garcia" id="h-s-luis-fernando-duque-garcia" showAs="H. S. Luís Fernando Duque García"/>
+				<TLCPerson href="/ontology/person/camara.felipeurrego.com/h-s-jorge-hernando-pedraza-gutierrez" id="h-s-jorge-hernando-pedraza-gutierrez" showAs="H. S. Jorge Hernando Pedraza Gutiérrez"/>
+				<TLCPerson href="/ontology/person/camara.felipeurrego.com/h-s-cesar-tulio-delgado" id="h-s-cesar-tulio-delgado" showAs="H. S. César Tulio Delgado"/>
+				<TLCPerson href="/ontology/person/camara.felipeurrego.com/h-s-jorge-hernando-pedraza" id="h-s-jorge-hernando-pedraza" showAs="H. S. Jorge Hernando Pedraza"/>
+				<TLCPerson href="/ontology/person/camara.felipeurrego.com/h-s-maritza-martinez-aristizabal" id="h-s-maritza-martinez-aristizabal" showAs="H. S. Maritza Martínez Aristizábal"/>
+				<TLCPerson href="/ontology/person/camara.felipeurrego.com/h-s-efrain-torradogarcia" id="h-s-efrain-torradogarcia" showAs="H. S. Efraín TorradoGarcía"/>
+				<TLCPerson href="/ontology/person/camara.felipeurrego.com/h-s-carlos-roberto-ferro-solanilla" id="h-s-carlos-roberto-ferro-solanilla" showAs="H. S. Carlos Roberto Ferro Solanilla"/>
+				<TLCPerson href="/ontology/person/camara.felipeurrego.com/h-s-cesar-tulio-delgado-blandon" id="h-s-cesar-tulio-delgado-blandon" showAs="H. S. César Tulio Delgado Blandón"/>
+				<TLCPerson href="/ontology/person/camara.felipeurrego.com/h-s-john-sudarsky-rosenbaum" id="h-s-john-sudarsky-rosenbaum" showAs="H. S. John Sudarsky Rosenbaum"/>
+				<TLCPerson href="/ontology/person/camara.felipeurrego.com/h-s-alexander-lopez-maya" id="h-s-alexander-lopez-maya" showAs="H. S. Alexander López Maya"/>
+				<TLCPerson href="/ontology/person/camara.felipeurrego.com/h-s-olga-lucia-suarez-mira" id="h-s-olga-lucia-suarez-mira" showAs="H. S. Olga Lucía Suárez Mira"/>
+				<TLCPerson href="/ontology/person/camara.felipeurrego.com/h-s-eugenio-prieto-soto" id="h-s-eugenio-prieto-soto" showAs="H. S. Eugenio Prieto Soto"/>
+				<TLCPerson href="/ontology/person/camara.felipeurrego.com/dr-carlos-pablo-marquez" id="dr-carlos-pablo-marquez" showAs="Dr. Carlos Pablo Márquez"/>
+				<TLCPerson href="/ontology/person/camara.felipeurrego.com/h-s-mauricio-aguilar-hurtado" id="h-s-mauricio-aguilar-hurtado" showAs="H. S. Mauricio Aguilar Hurtado"/>
+				<TLCPerson href="/ontology/person/camara.felipeurrego.com/h-s-carlos-alberto-baena" id="h-s-carlos-alberto-baena" showAs="H. S. Carlos Alberto Baena"/>
+				<TLCPerson href="/ontology/person/camara.felipeurrego.com/h-s-jorge-eliecer-guevara" id="h-s-jorge-eliecer-guevara" showAs="H. S. Jorge Eliécer Guevara"/>
+				<TLCPerson href="/ontology/person/camara.felipeurrego.com/h-s-efrain-torrado-garcia" id="h-s-efrain-torrado-garcia" showAs="H. S. Efraín Torrado García"/>
+				<TLCPerson href="/ontology/person/camara.felipeurrego.com/h-s-carlos-alberto-baena-lopez" id="h-s-carlos-alberto-baena-lopez" showAs="H. S. Carlos Alberto Baena López"/>
+				<TLCPerson href="/ontology/person/camara.felipeurrego.com/h-s-nerthink-mauricio-aguilar-hurtado" id="h-s-nerthink-mauricio-aguilar-hurtado" showAs="H. S. Nerthink Mauricio Aguilar Hurtado"/>
+				<TLCPerson href="/ontology/person/camara.felipeurrego.com/h-s-plinio-olano-becerra" id="h-s-plinio-olano-becerra" showAs="H. S. Plinio Olano Becerra"/>
+				<TLCPerson href="/ontology/person/camara.felipeurrego.com/dra-sandra-ovalle-garcia" id="dra-sandra-ovalle-garcia" showAs="Dra. Sandra Ovalle García"/>
+			</references>
+		</meta>
+		<preface>
+			<docTitle>ACTA No. 10</docTitle>
+			<docDate>18-09-2012</docDate>
+		</preface>
+		<debateBody>
+			<debateSection>
+				<heading>2012</heading>
+				<debateSection>
+					<heading>09</heading>
+					<debateSection>
+						<heading>18-09-2012</heading>
+						<debateSection>
+							<heading>ACTA No. 10</heading>
+							<narrative>En la ciudad de Bogotá D. C., el día dieciocho (18) de Septiembre de 2012, siendo las diez y cincuenta y un minutos de la mañana (10:51 a.m.), previa citación, los Senadores integrantes de la Comisión Sexta Constitucional Permanente del Senado de la República, se reunieron en el recinto de la Comisión con el fin desarrollar el siguiente: Para la sesión del martes 18 de septiembre de 2012, 9:00 am:  </narrative>
+							<questions>
+								<narrative>ANEXO A LA PROPOSICIÓN No. 07/12</narrative>
+								<question>1. ¿En qué estado de licenciamiento ambiental se encuentran las principales concesiones de construcción vial que se están desarrollando a la fecha. ¿En qué estado de licenciamiento ambiental se encuentran los proyectos que se piensan ejecutar con el paquete de concesiones que tiene preparada la Agencia Nacional de Infraestructura para abrir en el próximo mes, y que se anuncia por un valor de 42 billones de pesos?</question>
+								<narrative> </narrative>
+							</questions>
+							<narrative>ÍA  Citación al Señor Ministro de Ambiente y Desarrollo Sostenible, Dr. Juan Gabriel Uribe, en cumplimiento de la Proposición No. 07/12.  Invitación al Señor Procurador General de la Nación, Dr. Alejandro Ordoñez Maldonado; a la Señora Contralora General de la República, Dra. Sandra Morelli Rico.  PROPOSICIÓN No. 07/12  Cítese al Señor Ministro de Ambiente y Desarrollo Sostenible, para que en sesión de la Comisión VI del Senado, explique el estado actual de los procesos de licenciamiento ambiental de las principales obras de infraestructura que se vienen desarrollando o se van a desarrollar en el país.  Invítese al Señor Procurador y a la Señora Contralora General de la República.  Presentada a consideración de la Comisión Sexta por los Honorables Senadores PLINIO OLANO BECERRA, y aprobada por unanimidad en la sesión del 25 de Julio de 2012.  </narrative>
+							<speech by="#h-s-eugenio-prieto-soto">
+								<from>H. S. Eugenio Prieto Soto</from>
+								<p> Solicita a la Secretaria llamar a lista.  </p>
+							</speech>
+							<speech by="#dra-sandra-ovalle-garcia">
+								<from>Dra. Sandra Ovalle García</from>
+								<p> realiza el llamado a lista y contestan los siguientes Honorables Senadores:  Aguilar Hurtado Nerthink Mauricio, Baena López Carlos Alberto, Duque García Luís Fernando, Ferro Solanilla Carlos Roberto, López Maya Alexander, Olano Becerra Plinio, Prieto Soto Eugenio, Sudarsky Rosenbaum John.  Acto seguido informa que se ha conformado quórum deliberatorio y decisorio con la asistencia de ocho Senadores.  Asistieron durante el transcurso de la Sesión los siguientes Honorables Senadores:  Delgado Blandón Cesar Tulio, Guevara Jorge Eliécer, Pedraza Gutiérrez Jorge Hernando, Suárez Mira Olga Lucía, Torrado García Efraín.   El </p>
+							</speech>
+							<speech by="#h-s-eugenio-prieto-soto">
+								<from>H. S. Eugenio Prieto Soto</from>
+								<p> Solicita a la Secretaria verificar quién acude a la sesión en representación del Ministerio.  La </p>
+							</speech>
+							<speech by="#dra-sandra-ovalle-garcia">
+								<from>Dra. Sandra Ovalle García</from>
+								<p> Informa al Presidente que se encuentran en camino el Ministro del Medio Ambiente y los representantes de la Procuraduría y Contraloría.  </p>
+							</speech>
+							<speech by="#h-s-eugenio-prieto-soto">
+								<from>H. S. Eugenio Prieto Soto</from>
+								<p> Tiene la palabra el Senador Plinio Olano. </p>
+							</speech>
+							<speech by="#h-s-plinio-olano-becerra">
+								<from>H. S. Plinio Olano Becerra</from>
+								<p> Desafortunadamente saludo a los Honorables Senadores, digo desafortunadamente porque ésta es una proposición que se había aprobado con bastante antelación, incluso de alguna manera le habíamos solicitado a la mesa directiva que lo antes posible sin molestar la otra agenda pudiéramos tenerla en el orden del día. La verdad es que las respuestas son a un cuestionario simple, a un cuestionario que fue resumido la semana anterior solo para hablar de esos temas, en el entendido de que había un nuevo Ministro y que se estaba desarrollando el empalme en el Ministerio.  Solamente nos interrogamos sobre el Estado de licenciamiento de las actuales concesiones, las que están en desarrollo y de las que están hoy anunciando, que entre otras cosas si no hubiera sido por eso a lo mejor todos hubiéramos estado interesados en estar allá, en ese evento en el que se están anunciando seis o siete procesos de concesión o de asociación público privada por la Agencia Nacional de Infraestructura.  Desafortunadamente las respuestas a ese cuestionario solo fueron allegadas a mi oficina sobre las 9:30 de la mañana del día de hoy, como todos entenderemos, de 9:30 a esta hora es totalmente imposible preparar un ejercicio responsable señor Presidente sobre un tema tan importante como ese.  He tenido la oportunidad de conversar con el Ministro ahora que usted me acercó el teléfono del asesor, el Ministro me ha dicho “yo estoy listo para ir al debate”, como aquí no se trata de condenar Ministros, he pedido en primer lugar que le llame la atención a los funcionarios que laboran con él para que le ayuden en el tema de entregar a tiempo las respuestas, entre otras cosas porque nuestra Secretaria General desde el pasado 17 de septiembre le hizo llegar al Ministro una carta recordándole para qué fecha debíamos tener las respuestas, tengo que dejar claro que ahora por haber conversado con el Ministro no voy a modificar la posición que siempre hemos asumido en ésta Comisión, la cual radica, en primer lugar, dejar el mensaje al Gobierno Nacional de que la función de control político no es por atormentarle la vida a los Ministros ni a los funcionarios, sino es una función que tiene que ver con la obligación que tenemos los Congresistas de saber qué está pasando en algunos temas que hoy son cruciales para el país.  Si hay algo crucial es que nos estamos sintiendo en desventaja inmensa en términos de los múltiples tratados libres de comercio, en una gran desventaja por el tema del atraso de la infraestructura, y si hay algo que no ha arrancado en este Gobierno es la famosa locomotora de la infraestructura, que se habla mucho y se hace poco.  Por ejemplo: A mí me gustaría que le transmitieran hoy a quienes están allá en la reunión de la ANI puntualmente señor Presidente y Honorables Senadores, que le manifiesten a los interesados en qué punto del licenciamiento ambiental están cada uno de esos proyectos que hoy están ofreciendo en la vitrina de la infraestructura en Colombia, porque seguramente en éstas respuestas que nos enviaron hoy vamos a encontrar que licitaciones adjudicadas hace más de dos años, que están en proceso de construcción, hoy en día no tienen completas sus licencias ambientales y se sabe por los medios de comunicación que hay constructores que han tenido que licenciar personal porque no tienen pista para seguir por el tema del licenciamiento ambiental.  falta de Eso constituye una desarticulación, una desorganización, una responsabilidad si se quiere, de parte del propio Gobierno Nacional que después entonces a las volandas quieren empujar a que hagan las cosas rápidamente y que las hagan seguramente no en las mejores condiciones.  En esas circunstancias señor Presidente, yo he repetido aquí y lo que le he dicho telefónicamente al Ministro, que haga una reconvención a sus funcionarios para que quienes establecen la relación con el Congreso de la República le digan claramente cuáles son las obligaciones que tienen los funcionarios públicos, primero, para venir a los debates que vuelvo y lo repito, el Ministro ha dicho que está dispuesto a venir y yo un poco atreviéndome al resultado de lo que vamos a proponer, le he dicho que mejor no venga, que mejor aplacemos este cuestionario porque si no terminamos enfrascados es en una discusión que no va a construir nada para el país. El tema del licenciamiento ambiental es muy importante señor Presidente, las obras de infraestructura hoy en día no tienen horizontes claros y eso tiene que ver con el financiamiento de las obras y tiene que ver con la propia ejecución. Si no se tiene pista, después no se le puede exigir a un constructor que cumpla, entonces miremos a qué se comprometieron los constructores y a qué se va a comprometer el Gobierno en adelante. Pero si seguimos dejando los temas del licenciamiento para que se desarrollen en el propio transcurrir de la ejecución de la obra, yo creo que no estamos haciendo nada bueno.  Por eso la actualidad de la propuesta de control político del día de hoy, porque casi estoy completamente seguro que lo que están ofreciendo en la vitrina de la Agencia Nacional de Infraestructura el día de hoy, no cuenta con licenciamiento ambiental.  Entonces sacar unas licitaciones, abrir unos procesos que no estén completos nos pueden volver a hacer caer en los errores del pasado y yo creo que éste Congreso y esta Comisión en particular ha sido reiterativa en identificar errores en el licenciamiento, errores en el tema de predios, errores en otros capítulos que si los vamos a seguir cometiendo se repite el tema de que aquí los debates de control político no sirven para nada, porque aquí se viene con unas respuestas, se dicen unas cosas, pero no cambia absolutamente nada, por ejemplo, es claro que no ha cambiado nada después de la actualidad con que se desarrolló aquí el tema de 4G, yo les dejo esa reflexión.  Yo estaría en disposición porque hacer un debate solo y sin un previo estudio de cada una de las respuestas, y que no lleguen las respuestas a tiempo, sinceramente creo que esa es una forma de entorpecer el ejercicio del control político, y éste Congreso que tiene que asumir toda el agua sucia, ustedes lo han leído, toda la responsabilidad de los grandes errores que se han cometido, entonces es el Congreso el que los tiene que asumir, por esta razón también es culpa nuestra no hacer estos ejercicios a tiempo y eso me desanima inmensamente y me parece desafortunado, porque aquí veo la presencia casi de la totalidad de los Senadores para éste debate.  Pongo a su consideración señor Presidente, debido a las condiciones que hemos manifestado, que el debate que estaba programado para el día de hoy, aunque es muy actualizado, no vale la pena hacerlo desafortunadamente. Debido a la anterior tenemos que esperar muchos días más para poder hacer este debate, lo cual le significa a la competitividad y al empleo de los colombianos, por ejemplo, que se detengan las obras de infraestructura de un país.  </p>
+							</speech>
+							<speech by="#h-s-eugenio-prieto-soto">
+								<from>H. S. Eugenio Prieto Soto</from>
+								<p> Bajo esa consideración hay que tomar una decisión, si aplazamos el debate, si usted considera volverlo a programar lo más pronto posible.  Podríamos pensar en abrir un espacio la próxima sesión para que el Ministro venga cuanto antes, entre otras cosas porque lo que usted dice es cierto, frente al escenario de la presentación de la cuarta generación de concesiones viales en Colombia, me parece que es muy importante la discusión ambiental, máxime los pronunciamientos o controles de advertencia que ha hecho también la Contraloría en términos de licencias.  Entonces usted considera Senador Plinio si ponemos a consideración, convocamos para el próximo martes. </p>
+							</speech>
+							<speech by="#h-s-alexander-lopez-maya">
+								<from>H. S. Alexander López Maya</from>
+								<p> Acepto la proposición del Senador. Con la venia de él, quisiera adicionarle algunos elementos que me parecen prudentes para tener un debate mucho más fuerte y mucho más consistente, salvo las consideraciones que tenga el Senador Plinio, quisiera manifestar lo siguiente, hay un tema en su cuestionario, el cual me gustaría que lo ampliáramos hoy mismo y procuremos que esas respuestas lleguen antes del día que llegue ese debate.  Ustedes saben que he estado muy atento, hemos seguido cada uno de los contratos, de las obras viales en detalle, pero especialmente yo me he dedicado a la malla víal del Valle del Cauca, porque no tenemos condiciones técnicas nosotros en cada una de las UTL’s para dedicarnos a todo el país.  Frente al tema del Valle del Cauca, Senador Olano, nos encontramos con una respuesta a todo este debate y que es el argumento de los contratistas y es que no existen licencias ambientales para ellos avanzar. Ese ha sido todo el argumento y con este han justificado otrosíes, mayores valores y doblar los costos de cada uno de los contratos. Ese es un argumento absurdo porque uno no entiende cómo se firma un contrato por parte del Estado sin existir licencias ambientales, sin existir consulta previa y sin existir los requisitos contractuales para esto.  Me parece que en ese debate no solamente debemos garantizar la presencia del Ministro del Medio Ambiente sino de los órganos de control, además necesitamos lo precisar cuáles de estos contratos se han ampliado, se han modificado, se han demorado, se han retrasado por no existir licencias ambientales, esta sería mi pregunta adicional al cuestionario. Porque me parece que la responsabilidad es tanto del Estado como del contratista que firma un contrato sin tener los respectivos requisitos que se tienen para que se de este contrato.  Los funcionarios públicos terminan aumentando los montos, aumentando los plazos y el detrimento para los colombianos en general, me explico, nosotros logramos en un control excepcional que una investigación de la Contraloría llegara a un detrimento patrimonial en primera instancia de 92.000 millones de pesos en la doble calzada Buga-Loboguerrero-Buenaventura, pero eso fue porque lo pedimos en detalle aquí y logramos demostrarlo en esos siete contratos, pero en esas otras obras donde nosotros no hemos llegado, donde el control político nuestro no llega, están haciendo y deshaciendo.  Yo sí solicitaría que en estas obras de mayor importancia en el país, nos entreguen un informe cuáles han sido modificadas, por qué han sido modificadas, a razón de qué, cuáles tienen licencia ambiental, cuáles tienen consulta previa o no, no me refiero a todas, pero sí las de mayor importancia que hemos abordado en esta Comisión para que nosotros lleguemos a una conclusión en ese debate. Con toda seguridad nosotros vamos a encontrar que no son cientos sino billones de pesos los que se han perdido producto de ésta situación que se quiere plantear en este debate.  Si se aplaza este debate quería decir eso para que en el cuestionario adicionemos estas preguntas y podamos tener la certeza de que en este debate puedan estar los órganos de control, para que nos den una respuesta en relación a ese punto específico.  </p>
+							</speech>
+							<speech by="#h-s-eugenio-prieto-soto">
+								<from>H. S. Eugenio Prieto Soto</from>
+								<p> ¿Esas preguntas irían dirigidas al mismo Ministro? Senador Plinio. </p>
+							</speech>
+							<speech by="#h-s-plinio-olano-becerra">
+								<from>H. S. Plinio Olano Becerra</from>
+								<p> No Presidente, lo que propongo es lo siguiente, si el debate lo vamos a hacer la semana entrante, como hoy se están anunciando los proyectos de la ANI y yo me había referido al tema del licenciamiento ambiental, de las concesiones de última generación que están en proceso de construcción y las que vienen, para no hacerlo tan amplio, porque cuando ampliamos tanto el espectro entonces terminamos no concretando algo, pero estoy de acuerdo con el Senador Alexander López.  Solicito que adicionemos a la proposición la presencia de la Ministra de Transporte y la presencia del Director de la Agencia Nacional de Infraestructura junto con la Contralora Nacional, y le adicionemos dos preguntas que nos sacan de esos dos escenarios que tenemos planteados del debate, pero que son importantes para tener un referente. ¿Cuáles contratos se han aplazado por no tener licencias ambientales? Y ¿cuánto ha costado ese aplazamiento? Estas se las preguntaremos al Director de la ANI. Si quisiéramos ampliar aún más el espectro del debate, tendríamos que hacerle la misma pregunta al INVIAS, para mirar en los contratos de la red nacional qué ha pasado.  Con esas adiciones, señor Presidente, que yo le solicitaría con todo respeto pusiéramos en consideración la proposición.  </p>
+							</speech>
+							<speech by="#h-s-eugenio-prieto-soto">
+								<from>H. S. Eugenio Prieto Soto</from>
+								<p> Tiene la palabra el Senador Carlos Alberto Baena. </p>
+							</speech>
+							<speech by="#h-s-carlos-alberto-baena-lopez">
+								<from>H. S. Carlos Alberto Baena López</from>
+								<p> Me parece muy importante la proposición planteada por el Senador Olano, le quería solicitar a él si es posible incluir, como decía el Senador Alexander López, el tema de la consulta previa, porque nosotros tenemos debate este jueves y vamos a hacer una audiencia para analizar todo el tema de la consulta previa, porque el Gobierno Nacional está alistando un decreto y eso está en cabeza del Ministro del Interior. Nosotros citamos al Dr. Carrillo el jueves, pero nos dijo que no que no venía y yo creo que nos veremos la próxima semana acá. Entonces sería citarlo para mirar ese tema, estamos preocupados con el tema de la consulta previa porque el Gobierno está preparando un decreto con el cual está dejando por fuera mucha población afrodescendiente.  Creo que las licencias ambientales y la consulta previa son dos temas que tienen relación directa con las vías y los proyectos, pero sí necesitamos mayor claridad en el tema de consultas previas, yo creo que podríamos ir avanzado en el tema también aquí con el Ministro del Interior. Solicito si es posible se incluya lo anterior en la proposición. </p>
+							</speech>
+							<speech by="#h-s-plinio-olano-becerra">
+								<from>H. S. Plinio Olano Becerra</from>
+								<p> No tengo ningún inconveniente, pero yo diría que para darle la fuerza que requiere, porque el tema de la consulta previa es tan parecido al tema del licenciamiento ambiental, tan parecido que a lo mejor merezca que hagamos una especial para eso. Aprobemos una proposición sobre la consulta previa y la misma tarea que estamos haciendo del licenciamiento la establecemos con los mismos ejemplos para el tema de la consulta previa y nos vamos a dar cuenta que las dos son dos temas que paralelamente están entorpeciendo la ejecución de las obras.  </p>
+							</speech>
+							<speech by="#h-s-eugenio-prieto-soto">
+								<from>H. S. Eugenio Prieto Soto</from>
+								<p> Sí, a mí me preocupa una cosa, es necesario que focalicemos bien los temas, porque ese día tendremos dos debates, éste y el tema de presupuesto, entonces que no se nos extienda mucho, para que no resultemos haciendo ninguna de las dos cosas bien. </p>
+							</speech>
+							<speech by="#h-s-plinio-olano-becerra">
+								<from>H. S. Plinio Olano Becerra</from>
+								<p> Estamos de acuerdo, vamos a presentar una proposición.  </p>
+							</speech>
+							<speech by="#h-s-eugenio-prieto-soto">
+								<from>H. S. Eugenio Prieto Soto</from>
+								<p> Vamos a poner en consideración la proposición de aplazar para el día martes con las adiciones ya acordadas con el Senador citante. En consideración, anuncio que va a cerrarse, se cierra. </p>
+							</speech>
+							<speech by="#dra-sandra-ovalle-garcia">
+								<from>Dra. Sandra Ovalle García</from>
+								<p> Informa al Presidente que fue aprobada la proposición de aplazamiento y que se tiene otra para ser considerada.  </p>
+							</speech>
+							<speech by="#h-s-eugenio-prieto-soto">
+								<from>H. S. Eugenio Prieto Soto</from>
+								<p> Tiene la palabra el Senador Carlos Roberto Ferro. </p>
+							</speech>
+							<speech by="#h-s-carlos-roberto-ferro-solanilla">
+								<from>H. S. Carlos Roberto Ferro Solanilla</from>
+								<p> Por decisión de la mesa directiva estaba agendado mañana el debate de COLCIENCIAS, que para nosotros es importante y significativo. Fundamentalmente queríamos a través de ese debate demostrar hasta dónde está todo el tema de ciencia y tecnología e innovación manejado desde el punto de vista regional.  Como el Gobierno nombró hace unos días a un nuevo director y en razón a que él no se ha posesionado le solicitamos a la mesa directiva que se aplazara este debate.  Quiero poner a consideración una proposición para agendar un cuestionario muy breve que va relacionado al Ministro de Hacienda, que esperamos ese día, también pueda ser citado aquí a la Comisión para que nos responda en relación con unos temas presupuestales que para nosotros son fundamentales. Nosotros vamos a presentar esa proposición, vamos a dejar el cuestionario para que se le responda y simplemente queríamos que la sometiera a consideración.  </p>
+							</speech>
+							<speech by="#h-s-eugenio-prieto-soto">
+								<from>H. S. Eugenio Prieto Soto</from>
+								<p> Entonces se pone en consideración también el aplazamiento del debate de COLCIENCIAS de mañana y fijaríamos nueva fecha con una adición de un cuestionario para el Ministro de Hacienda. En consideración, anuncio que va a cerrarse, se cierra.  </p>
+							</speech>
+							<speech by="#dra-sandra-ovalle-garcia">
+								<from>Dra. Sandra Ovalle García</from>
+								<p> Informa al Presidente que ha sido aprobada la proposición.  </p>
+							</speech>
+							<speech by="#dra-sandra-ovalle-garcia">
+								<from>Dra. Sandra Ovalle García</from>
+								<p> Señor Presidente tenemos otra proposición.  Conforme a las conclusiones que surgieron del debate realizado el pasado 11 de septiembre, el Director del Instituto Colombiano de Bienestar Familiar referente a las dificultades existentes en los programas desarrollados en las madres comunitarias FAMI, tradicionales y sustitutas, trabajadoras de hogares infantiles y demás programas del Instituto, cítese a la hora y fecha que defina esta mesa directiva de la Comisión Sexta, el señor Ministro de Trabajo, Dr. Rafael Parra, al Director del Instituto Colombiano de Bienestar Familiar, Diego Molano, al señor Ministro de Hacienda, Dr. Carlos Cárdenas, al Director Nacional de Planeación, Mauricio Santamaría, para que respondan ante esta Comisión por las problemáticas y soluciones de la situación laboral y pensional de las personas que desarrollan dichas modalidades en el Instituto. Invítese a las organizaciones nacionales de madres comunitarias y a sus voceras; además invítese a las organizaciones de defensores de los derechos de los trabajadores y las organizaciones sindicales representadas en trabajadoras y trabajadores de los hogares infantiles y hogares comunitarios. Invítese a la señora Contralora General de la República, Sandra Morelli y al señor Procurador General de la Nación. Presentada por el Honorable Senador Alexander López. Ha sido leída la proposición señor Presidente.  </p>
+							</speech>
+							<speech by="#h-s-eugenio-prieto-soto">
+								<from>H. S. Eugenio Prieto Soto</from>
+								<p> En consideración la proposición presentada, anuncio que va a cerrarse, se cierra.  </p>
+							</speech>
+							<speech by="#dra-sandra-ovalle-garcia">
+								<from>Dra. Sandra Ovalle García</from>
+								<p> Informa al Presidente que ha sido aprobada la proposición. </p>
+							</speech>
+							<speech by="#h-s-alexander-lopez-maya">
+								<from>H. S. Alexander López Maya</from>
+								<p> Presidente, otra proposición, solicito a esta Comisión que como siempre nos acompañen. Colegas en la ciudad de Cali tenemos un problema muy complejo y es que 120.000 niños que están en los programas de ampliación de cobertura están a punto de perder el año lectivo.  Debido a la irresponsabilidad en la Secretaría de Educación Municipal no le hicieron los contratos por diez meses, como establece la ley en la ampliación de cobertura a estos niños, sino que lo hicieron por ocho y además de dejarlo por ocho meses, hay 15.000 niños que no aparecen en ningún programa, pero están siendo atendidos por estos colegios.  La semana pasada hablamos con la Ministra, la cual nos dijo que la Secretaría de Educación de Cali no había notificado esta decisión, así que no era responsabilidad de ella y yo tengo que reconocer la pertinencia y la diligencia con la que actuó la Ministra de Educación en ese sentido, porque salió de inmediato a buscar una solución.  Quiero plantear un debate la próxima semana en la fecha que usted estime conveniente Presidente, martes o miércoles, en dónde se cite a la Ministra de Educación, citando e invitando al Alcalde de Cali y al Secretario de Educación, como también a los rectores de los colegios privados, al Defensor del Pueblo, al Personero de Cali, y a los Concejales de Santiago de Cali para que en podamos resolver esa problemática de 120.000 niños.  Presidente, esa es la motivación de ésta proposición para lo cual le solicito la ponga en consideración y podamos además de invitar a los órganos de control, dar una solución a la problemática que hoy atraviesan 120.000 niños en la ciudad de Cali.  </p>
+							</speech>
+							<speech by="#h-s-eugenio-prieto-soto">
+								<from>H. S. Eugenio Prieto Soto</from>
+								<p> En consideración la proposición presentada por el Senador Alexander López, anuncio que va a cerrarse, se cierra.  </p>
+							</speech>
+							<speech by="#dra-sandra-ovalle-garcia">
+								<from>Dra. Sandra Ovalle García</from>
+								<p> Informa al Presidente que ha sido aprobada la proposición.  </p>
+							</speech>
+							<speech by="#h-s-eugenio-prieto-soto">
+								<from>H. S. Eugenio Prieto Soto</from>
+								<p> Tiene la palabra, senador Alexander López. </p>
+							</speech>
+							<speech by="#h-s-alexander-lopez-maya">
+								<from>H. S. Alexander López Maya</from>
+								<p> Colegas, ustedes participaron del debate la semana pasada al ICBF en relación a los derechos laborales y los derechos de madres comunitarias. El pasado jueves salió la sentencia T-628 de 2012, sobre una acción de tutela que se instauró desde la ciudad de Cali por una madre comunitaria reclamando en primer lugar el derecho a la salud porque ella ha sido removida de su función por parte del Director Regional Valle. En esa sentencia no solamente se solicitaba el derecho a la salud sino el derecho a la seguridad social plena, a riesgos profesionales, a pensión y a salario.  En ésta sentencia la Corte Constitucional no solamente reconoce el derecho a la salud de ésta madre comunitaria, sino que obliga al Gobierno Nacional y al Congreso de la República en un término perentorio, generar todas las acciones necesarias para garantizar el salario mínimo a todas las madres comunitarias en el país.  En esta proposición que nosotros acabamos de avalar tenemos la herramienta para darle cumplimiento a esta sentencia, es decir, ya no es si nosotros queremos Senadores, ya no es si el Ministro del Trabajo o el Director del ICBF quiere, la orden y se las voy a leer para que ustedes lo tengan en cuenta es la siguiente y creo que nosotros como Comisión hemos venido dando el debate, no vamos a esperar que en la Comisión Séptima, porque ya este debate después de esta sentencia, citaron a un debate mañana en la Comisión Séptima de Cámara por ejemplo. Me di cuenta que la Comisión Tercera de asuntos económicos por ser un tema de presupuesto entonces va a llevar este tema al escenario mínimo de las madres pero los que hemos dado la batalla en relación a los derechos de las madres comunitarias ha sido esta Comisión.  Aquí acabamos de convocar al Ministro del Trabajo, al Director de Planeación o al Ministro de Hacienda y al Director del ICBF.  La orden que da la sentencia es la siguiente: Ordenar al Instituto Colombiano de Bienestar Familiar para que de forma inmediata inicie, lidere y coordine un proceso interinstitucional y participativo a diseño y elección de todas las medidas adecuadas, incluso de carácter legislativo para asegurar en forma inmediata y pronta que las madres comunitarias de tiempo completo devenguen un salario mínimo legal vigente para este momento.  Esto es una orden de la Corte Constitucional, lideremos eso nosotros colegas, son 76.000 madres comunitarias, lideremos nosotros esta tarea, nosotros ya generamos esta proposición, entonces Presidente póngale fecha, la próxima semana, no sé si los colegas puedan el lunes, si eso se nos atraviesa con nuestra tarea legislativa o de control político hagámosla el lunes o un jueves, pero yo sí Presidente le llamo la atención a los colegas para que esa convocatoria la hagamos la próxima semana y pongámonos nosotros al frente y no permitir que otras comisiones nos vayan a quitar la tarea que nosotros hemos venido desarrollando en todos estos años.  </p>
+							</speech>
+							<speech by="#h-s-eugenio-prieto-soto">
+								<from>H. S. Eugenio Prieto Soto</from>
+								<p> Senador vamos a mirar internamente si somos capaces de hacerlo, sino esta semana, la semana que sigue, que me parece que es lo más pronto posible.  Me parece que esta Comisión sí debe asumir una responsabilidad con el tema, los debates que se han venido haciendo muestran que hay un enorme trabajo por parte suyo y de los Senadores de ésta Comisión en reconocimiento a la dignidad y el derecho al trabajo de las madres comunitarias, y valorar lo que ha venido haciendo la Corte frente al reconocimiento de esos derechos, no solo de las madres comunitarias, ahí hay un tema que yo quisiera que también trajéramos a ésta Comisión más adelante, que tiene que ver con los recicladores, es decir, hay unas sentencias de la Corte en unos casos similares y fundamentalmente un auto, creo que es el 275, que tuvo que ver con suspender una licitación que se había hecho en la ciudad de Bogotá en materia de aseo, precisamente porque se había dado una mala interpretación a esas sentencias de la Corte.  Me parece muy viable que nosotros hagamos un trabajo en esa ruta, cuente con toda nuestra disposición y bienvenido un trabajo para que dignifiquemos esa labor de las madres comunitarias buscando el reconocimiento de ese salario mínimo.  Siendo las once y veinticuatro minutos de la tarde, el Presidente levanta la sesión y convoca para el martes 25 de septiembre a las 10 de la mañana. EUGENIO PRIETO SOTO   Presidente  Vicepresidente JORGE ELIECER GUEVARA SANDRA OVALLE GARCÍA Secretaria General  </p>
+							</speech>
+						</debateSection>
+					</debateSection>
+				</debateSection>
+			</debateSection>
+		</debateBody>
+	</debate>
+</akomaNtoso>
